@@ -86,6 +86,12 @@
     <Compile Include="Form3.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Frm_login.Designer.vb">
+      <DependentUpon>Frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Frm_Virak.Designer.vb">
       <DependentUpon>Frm_Virak.vb</DependentUpon>
     </Compile>
