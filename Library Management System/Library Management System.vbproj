@@ -158,5 +158,14 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Forms\Frm_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Forms\Frm_Dashboard.Designer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reports\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
